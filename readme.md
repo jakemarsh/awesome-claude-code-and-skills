@@ -1653,6 +1653,11 @@ Utilities and tools to enhance your Claude workflow.
   - Query databases and create/update pages and blocks via the Notion API
   - Supports a hosted remote endpoint and local stdio deployment
 
+- [bankbridge-money/bankbridge-plugin](https://github.com/bankbridge-money/bankbridge-plugin) ![Stars](https://img.shields.io/github/stars/bankbridge-money/bankbridge-plugin?style=flat-square)
+  - Claude Code plugin for BankBridge, a hosted remote MCP server for your own US bank, card and investment accounts
+  - 12 read-only tools (balances, transaction search, spending summaries, recurring charges, cashflow, holdings) plus 19 slash commands and a skill
+  - OAuth sign-in, live fetch on each call, can't move money; paid service, plugin is MIT licensed
+
 ### API & Integration Tools
 
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) ![Stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square)
